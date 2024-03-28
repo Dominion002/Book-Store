@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899599983845",
+    "project_id": "work-dc291",
+    "storage_bucket": "work-dc291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899599983845:android:6a26bb3ccbfb6ce6dd600c",
+        "android_client_info": {
+          "package_name": "com.example.migos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJcgsG4iwRCDYrWFFgwf0bWkdHCxZ2W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
